@@ -1,0 +1,18 @@
+C11 469.07
+C12 157.72
+C44 99.71
+q_range 0.001
+grid 5000
+h 0.0 2.0 2.0
+p 1.0 0.0 0.0
+tag ${\langle}11{\xi}{\rangle}$d
+filename Mo_11xd_h_022_p_100_q_1e-3
+element Mo
+a_lattice 3.160
+P11  38.614
+P22  38.614
+P33  43.538
+P12  6.675
+P23  4.631
+P31  4.631
+cutoff  1e7
